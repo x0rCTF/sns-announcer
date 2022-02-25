@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.1081.0",
+    "sentiment": "^5.0.2"
+  }
+}
